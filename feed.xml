@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>小碎步</title>
+    <link>https://raw.githubusercontent.com/ceci0618/xiaosuibu-podcast/main/feed.xml</link>
+    <language>zh-cn</language>
+    <copyright>© 小碎步播客</copyright>
+    <description>AI 在大跨步，我走我的小碎步。一个教机器人编程、教Python的小人物，聊聊AI时代普通人的生活、工作与成长。慢慢走，稳稳过。</description>
+    <itunes:author>小碎步</itunes:author>
+    <itunes:summary>AI 在大跨步，我走我的小碎步。一个教机器人编程、教Python的小人物，聊聊AI时代普通人的生活、工作与成长。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>小碎步</itunes:name>
+      <itunes:email>xiaosuibu@outlook.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/ceci0618/xiaosuibu-podcast/main/cover.jpg" />
+    <itunes:category text="教育">
+      <itunes:category text="自学" />
+    </itunes:category>
+    <itunes:category text="科技" />
+
+    <item>
+      <title>Ep1 · AI在大跨步，我要走小碎步</title>
+      <link>https://raw.githubusercontent.com/ceci0618/xiaosuibu-podcast/main/ep001.mp3</link>
+      <guid isPermaLink="false">xiaosuibu-ep001</guid>
+      <pubDate>Fri, 13 Nov 2026 23:00:00 +0800</pubDate>
+      <description>AI能生成完美的代码，但它看不到孩子眼睛里的光。一个教机器人编程和Python的小人物，聊聊AI焦虑与走稳当下：大跨步是时代的事，小碎步是我自己的事。</description>
+      <itunes:summary>AI能生成完美的代码，但它看不到孩子眼睛里的光。一个教机器人编程和Python的小人物，聊聊AI焦虑与走稳当下。</itunes:summary>
+      <itunes:duration>188</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://raw.githubusercontent.com/ceci0618/xiaosuibu-podcast/main/ep001.mp3" length="3030000" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
